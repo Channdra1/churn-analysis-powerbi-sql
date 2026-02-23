@@ -44,4 +44,5 @@ The dashboard includes:
 - Certain states contribute disproportionately to churn
 - High monthly charges increase churn probability
 
-
+### Screenshots / Demos
+![Dashboard Preview].(https://github.com/Channdra1/churn-analysis-powerbi-sql/blob/main/Dashboard.png).
