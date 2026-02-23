@@ -45,5 +45,4 @@ The dashboard includes:
 - High monthly charges increase churn probability
 
 ### Screenshots / Demos
-Show what the dashboard Looks Like. - ![Alt text](https://github.com/Channdra1/churn-analysis-powerbi-sql/tree/main/images).
-![Dashboard Preview].(https://github.com/Channdra1/churn-analysis-powerbi-sql/blob/main/Dashboard.png).
+![Dashboard Preview](https://raw.githubusercontent.com/Channdra1/churn-analysis-powerbi-sql/main/images/Dashboard.png)
