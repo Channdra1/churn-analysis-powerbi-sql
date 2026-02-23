@@ -1,21 +1,21 @@
 # churn-analysis-powerbi-sql
 End-to-end Telecom Customer Churn Analysis using SQL, ETL, and Power BI
-# 📊 Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
-## 🔍 Project Overview
+## Project Overview
 This project focuses on analyzing telecom customer churn using SQL-based ETL processes and an interactive Power BI dashboard.
 
 The goal is to identify churn patterns, understand customer behavior, and help businesses reduce churn through data-driven decisions.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - SQL Server (ETL & Data Transformation)
 - Power BI (Visualization & Dashboard)
 - Microsoft Excel / CSV
 - GitHub (Version)
 
-- ## 📌 Key Objectives
+- ## Key Objectives
 - Analyze churn by demographics, geography, services, and payment methods
 - Identify high-risk churn customer segments
 - Track KPIs such as:
@@ -25,20 +25,20 @@ The goal is to identify churn patterns, understand customer behavior, and help b
   - New Joiners
 - Build an end-to-end ETL pipeline
 
-- ## 🔄 ETL Process
+- ## ETL Process
 1. Raw data loaded into staging table (`stg_Churn`)
 2. Data cleaning and NULL handling
 3. Transformed data stored in production table (`prod_Churn`)
 4. Analytical views created for churned, stayed, and joined customers
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 The dashboard includes:
 - Churn Rate analysis
 - Gender-wise & State-wise churn
 - Contract & Payment Method insights
 - Tenure, Age, and Monthly Charge segmentation
 
-## 📊 Key Insights
+## Key Insights
 - Female customers show a higher churn rate than males
 - Short-tenure customers churn more frequently
 - Certain states contribute disproportionately to churn
